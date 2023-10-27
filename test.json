@@ -1,27 +1,16 @@
 {
-  "score": 80,
+  "score": 100,
   "full_score": 100,
   "tests": {
     "q1": "PASS (10/10)",
     "q2": "PASS (10/10)",
     "q3": "PASS (10/10)",
     "q4": "PASS (10/10)",
-    "q5": [
-      "Traceback (most recent call last):\n",
-      "  File \"/home/caseyreyes/project-4-perrito_p4/tester.py\", line 33, in run\n    result = self.func()\n",
-      "  File \"/home/caseyreyes/project-4-perrito_p4/autograde.py\", line 304, in q5\n    assert sum(d.values()) == 167\n",
-      "AssertionError\n"
-    ],
+    "q5": "PASS (10/10)",
     "q6": "PASS (10/10)",
     "q7": "PASS (10/10)",
     "q8": "PASS (10/10)",
-    "q9": [
-      "Traceback (most recent call last):\n",
-      "  File \"/home/caseyreyes/project-4-perrito_p4/tester.py\", line 33, in run\n    result = self.func()\n",
-      "  File \"/home/caseyreyes/project-4-perrito_p4/autograde.py\", line 324, in q9\n    check_has_answer(9)\n",
-      "  File \"/home/caseyreyes/project-4-perrito_p4/autograde.py\", line 252, in check_has_answer\n    raise Exception(f\"Answer to question {num} not found\")\n",
-      "Exception: Answer to question 9 not found\n"
-    ],
+    "q9": "PASS (10/10)",
     "q10": "PASS (10/10)"
   }
 }
